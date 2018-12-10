@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\franz\desktop\github\unn-optimization\l2_miss_problem\l2_miss_problem\main.cpp(72): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+  Создание кода
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  L2_miss_problem.vcxproj -> C:\Users\Franz\Desktop\GitHub\UNN-Optimization\L2_miss_problem\Release\L2_miss_problem.exe
