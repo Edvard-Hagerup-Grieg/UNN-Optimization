@@ -58,6 +58,7 @@ int main(int argc, char* argv[])
 		start = omp_get_wtime();
 
 		for (int time = 0; time < 15; time++)
+	 #pragma omp parallel for
 			for (int jj = 0; jj < N; jj += K)
 				for (int kk = 0; kk < N; kk += K)
 				{
